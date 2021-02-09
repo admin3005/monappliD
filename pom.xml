@@ -7,6 +7,23 @@
   <version>1.0-SNAPSHOT</version>
   <name>monappli1</name>
   <url>http://maven.apache.org</url>
+   <!--
+   <scm>
+    <connection> scm: svn: https://github.com/admin3005/monappliD</connection>
+    <developerConnection> scm: svn: https://github.com/admin3005/monappliD </developerConnection>
+    <url> https://github.com/view.cvs </url>
+  </scm>
+  -->
+   <!--<plugins>
+      <plugin>
+        <groupId> org.apache.maven.plugins </groupId>
+        <artifactId> maven-scm-plugin </artifactId>
+        <version> 1.11.2 </version>
+        <configuration>
+          <connectionType> connexion </connectionType>
+        </configuration>
+      </plugin>
+          </plugins> -->
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
